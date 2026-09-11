@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dd.md",
+                "file": "INTERLINK.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dd"
+              "title": "INTERLINK"
             }
           }
         ]
@@ -196,11 +196,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "412b726821a96a2b",
+  "active": "a5578a5af0098349",
   "lastOpenFiles": [
-    "INTERLINK.md",
-    "dd.md",
     "Sin título.base",
+    "dd.md",
+    "INTERLINK.md",
     "Sin título.canvas",
     "Bienvenido.md"
   ]
