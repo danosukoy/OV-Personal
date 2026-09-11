@@ -1,4 +1,4 @@
-- [ ] fff
-- [ ] d
-- [ ] d
-- [ ] d
+- [ ] Estudiar TeoComp
+- [ ] Estudiar Arqui
+- [ ] Estudiar MD
+- [ ] 
