@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "dd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bienvenido"
+              "title": "dd"
             }
           }
         ]
@@ -199,6 +199,8 @@
   "active": "a5578a5af0098349",
   "lastOpenFiles": [
     "Sin título.base",
+    "dd.md",
+    "Sin título.canvas",
     "Bienvenido.md"
   ]
 }
