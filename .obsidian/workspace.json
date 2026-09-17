@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INTERLINK.md",
+                "file": "dd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INTERLINK"
+              "title": "dd"
             }
           }
         ]
@@ -198,10 +198,10 @@
   },
   "active": "a5578a5af0098349",
   "lastOpenFiles": [
-    "dd.md",
-    "INTERLINK.md",
-    "2026-09-10.md",
     "Bienvenido.md",
+    "INTERLINK.md",
+    "dd.md",
+    "2026-09-10.md",
     "Sin título.base",
     "Sin título.canvas"
   ]

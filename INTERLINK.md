@@ -1,1 +1,3 @@
-- [ ] DD 
+- [ ] Multiplayer
+- [ ] Sistema de animaciones
+- [ ] 
