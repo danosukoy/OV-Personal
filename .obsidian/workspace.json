@@ -228,13 +228,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "146b028150b0e481",
+            "type": "leaf",
+            "state": {
+              "type": "agent-terminal",
+              "state": {},
+              "icon": "bot",
+              "title": "Agent terminal"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 310
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,11 +260,11 @@
       "agent-mcp:Open agent terminal": false
     }
   },
-  "active": "f48d6b82f7065e2d",
+  "active": "146b028150b0e481",
   "lastOpenFiles": [
+    "2026-09-10.md",
     "2026-10-12 dd.md",
     "2026-10-14.md",
-    "2026-09-10.md",
     "Bienvenido.md",
     "dd.md",
     "INTERLINK.md",
