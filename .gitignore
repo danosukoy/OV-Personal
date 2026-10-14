@@ -1,0 +1,26 @@
+# Obsidian - UI / caché local (privacidad, no seguridad)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/history/
+
+# Obsidian - SEGURIDAD: todos los data.json de plugins pueden contener tokens / API keys
+.obsidian/plugins/*/data.json
+.obsidian/plugins/obsidian-git/data.json
+
+# Obsidian trash
+.trash/
+
+# macOS
+.DS_Store
+
+# SEGURIDAD: secretos genéricos - nunca subir a GitHub
+.env
+.env*
+*.pem
+*.p12
+*.key
+*credentials*.json
+*id_rsa*
+*id_ed25519*
+.git-credentials
