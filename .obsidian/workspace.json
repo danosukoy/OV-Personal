@@ -11,14 +11,14 @@
             "id": "6ac350461d2020a5",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "INTERLINK.md",
-                "bFile": "INTERLINK.md",
-                "aRef": ""
+                "file": "2026-10-14.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: INTERLINK  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "2026-10-14"
             }
           }
         ]
@@ -211,12 +211,13 @@
   },
   "active": "6ac350461d2020a5",
   "lastOpenFiles": [
-    "INTERLINK.md",
-    "conflict-files-obsidian-git.md",
-    "dd.md",
-    "Sin título.base",
     "Bienvenido.md",
+    "dd.md",
+    "2026-10-14.md",
+    "INTERLINK.md",
     "2026-09-10.md",
+    "conflict-files-obsidian-git.md",
+    "Sin título.base",
     "Sin título.canvas"
   ]
 }
